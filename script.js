@@ -18,6 +18,7 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
 
+    
     registerForm.addEventListener("submit", function (e) {
         e.preventDefault();
 
