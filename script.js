@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
 
-    
+
     registerForm.addEventListener("submit", function (e) {
         e.preventDefault();
 
@@ -46,6 +46,7 @@ document.addEventListener("DOMContentLoaded", function () {
         registerForm.reset();
     });
 
+    
 
     loginForm.addEventListener("submit", function (e) {
         e.preventDefault();
